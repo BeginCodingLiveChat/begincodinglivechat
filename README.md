@@ -1,2 +1,2 @@
 # begincodinglivechat
-A live chat service for BeginCoding. See the wesite at www.begincoding.org
+A live chat service for BeginCoding. For more details visit our website at https://www.begincoding.org
